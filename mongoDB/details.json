@@ -1,0 +1,27 @@
+{
+  "uid": "mongoDB",
+  "name": "mongoDB Management",
+  "description": "A basic management for mongoDB.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Rui Huang",
+    "email": "rh4m8@mail.missouri.edu",
+    "website": "",
+    "contributors": [
+      {
+          "name": "Duo Jiang",
+          "email": "dj963@mail.missouri.edu"
+      }
+    ]
+  },
+  "settings": [],
+  "permissions": {
+    "ACCESS_USER": [],
+    "ACCESS_WRITER": [],
+    "ACCESS_EDITOR": [],
+    "ACCESS_MANAGING_EDITOR": []
+  },
+  "main_module": {
+    "path": "mongo.js"
+  }
+}
